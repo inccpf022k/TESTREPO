@@ -1,7 +1,1 @@
-#include <iostream>
-
-int main()
-{
-std::cout << "hello world" <<std::endl;
-
-}
+Fetch 와 Pull은 어렵다 응애
